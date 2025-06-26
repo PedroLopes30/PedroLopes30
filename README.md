@@ -1,4 +1,11 @@
-## Hi there 👋
+# Olá, sou Pedro Lopes! 👋
+
+Sou estudante e iniciante no mundo da programação. Atualmente estou desenvolvendo minhas habilidades em **Python**, **HTML** e **CSS**. Estou sempre buscando aprender coisas novas e me aperfeiçoar na área de tecnologia.
+
+## 💻 Tecnologias que estou estudando
+- Python
+- HTML
+- CSS
 
 <!--
 **PedroLopes30/PedroLopes30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
