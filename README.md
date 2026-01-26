@@ -3,6 +3,8 @@
 Sou estudante e iniciante no mundo da programação. Atualmente estou desenvolvendo minhas habilidades em **Python**, **HTML** e **CSS**. Estou sempre buscando aprender coisas novas e me aperfeiçoar na área de tecnologia.
 
 ## 💻 Tecnologias que estou estudando
+- PostgreSQL
+- Django
 - Python
 - HTML
 - CSS
