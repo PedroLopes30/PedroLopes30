@@ -1,6 +1,5 @@
 <div align="center">
-  <img height="150" src="![WhatsApp Image 2026-01-26 at 21 16 41](https://github.com/user-attachments/assets/7fb57eb6-0341-4af0-9d44-48b691b234be)
-"  />
+  <img height="150" src="![Uploading WhatsApp-Image-2026-01-26-at-21.16.41.svg…]()"  />
 </div>
 
 ###
@@ -29,11 +28,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="40" alt="django"  />
+  <img src="https://devicon-website.vercel.app/api/django/plain-wordmark.svg?color=%23FFFFFF" height="40" alt="django"  />
   <img width="12" />
 
 </div>
