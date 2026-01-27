@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="![Uploading WhatsApp-Image-2026-01-26-at-21.16.41.svg…]()"  />
+  <img height="150" src="![WhatsApp Image 2026-01-26 at 21 16 41](https://github.com/user-attachments/assets/ea71301a-bc80-4e9b-8673-e9514b6adb73)
+"  />
 </div>
 
 ###
@@ -44,7 +45,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=PedroLopes30&hide_border=true" height="220" alt="streak graph"  /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PedroLopes30&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 ###
